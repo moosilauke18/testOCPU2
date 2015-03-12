@@ -13,4 +13,5 @@ Depends:
     dichromat,
     munsell,
     labeling,
-    Formula
+    Formula,
+    ggplot2
