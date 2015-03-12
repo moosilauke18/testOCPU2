@@ -13,4 +13,5 @@ Depends:
     lubridate,
     reshape2,
     tester,
-    modeest
+    modeest,
+    stringr
