@@ -11,4 +11,5 @@ Depends:
     zoo,
     scales,
     lubridate,
-    reshape2
+    reshape2,
+    tester
