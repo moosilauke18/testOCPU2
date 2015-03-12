@@ -10,4 +10,5 @@ Depends:
     gtable,
     reshape2,
     RColorBrewer,
-    dichromat
+    dichromat,
+    munsell
