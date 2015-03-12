@@ -8,4 +8,5 @@ LazyData: true
 Depends:
     plyr,
     fpc,
-    zoo
+    zoo,
+    scales
