@@ -10,4 +10,5 @@ Depends:
     fpc,
     zoo,
     scales,
-    lubridate
+    lubridate,
+    reshape2
