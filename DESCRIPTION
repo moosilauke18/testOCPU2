@@ -8,4 +8,5 @@ LazyData: true
 Depends:
     colorspace,
     gtable,
-    reshape2
+    reshape2,
+    RColorBrewer
