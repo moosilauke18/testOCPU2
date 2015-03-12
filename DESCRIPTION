@@ -9,4 +9,5 @@ Depends:
     plyr,
     fpc,
     zoo,
-    scales
+    scales,
+    lubridate
