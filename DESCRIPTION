@@ -7,4 +7,5 @@ License: What license is it under?
 LazyData: true
 Depends:
     plyr,
-    fpc
+    fpc,
+    zoo
