@@ -12,4 +12,5 @@ Depends:
     scales,
     lubridate,
     reshape2,
-    tester
+    tester,
+    modeest
