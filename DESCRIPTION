@@ -12,4 +12,5 @@ Depends:
     RColorBrewer,
     dichromat,
     munsell,
-    labeling
+    labeling,
+    Formula
