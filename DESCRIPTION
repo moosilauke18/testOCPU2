@@ -11,4 +11,5 @@ Depends:
     reshape2,
     RColorBrewer,
     dichromat,
-    munsell
+    munsell,
+    labeling
