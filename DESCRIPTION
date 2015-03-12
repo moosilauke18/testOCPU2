@@ -9,4 +9,5 @@ Depends:
     colorspace,
     gtable,
     reshape2,
-    RColorBrewer
+    RColorBrewer,
+    dichromat
