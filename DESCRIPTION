@@ -5,13 +5,4 @@ Authors@R: person("First", "Last", , "first.last@example.com", role = c("aut", "
 Description: What the package does (one paragraph)
 License: What license is it under?
 LazyData: true
-Depends:
-    colorspace,
-    gtable,
-    reshape2,
-    RColorBrewer,
-    dichromat,
-    munsell,
-    labeling,
-    Formula,
-    ggplot2
+Depends: ggplot2
